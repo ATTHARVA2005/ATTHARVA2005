@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Attharva Gupta
 
-### Machine Learning Developer | AI Systems Builder | Full-Stack Explorer
+### Machine Learning | Artificial Intelligence | AI Agents | NLP Pipelines | Full-Stack Applications
 
-I build intelligent systems that combine **ML + Agentic AI**.  
+I build intelligent systems that combine **AI ,ML, Agentic AI, Computer Vision and other emerging technologies**.  
 From real-time detection models to multi-agent frameworks, I enjoy turning ideas into working, deployable products.
 
 ---
@@ -45,5 +45,3 @@ From real-time detection models to multi-agent frameworks, I enjoy turning ideas
 - 📧 Email: **attharvagupta2005@gmail.com**
 
 ---
-
-_“Building intelligent systems, one agent at a time.”_
