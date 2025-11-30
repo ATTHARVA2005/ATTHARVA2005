@@ -40,13 +40,6 @@ From real-time detection models to multi-agent frameworks, I enjoy turning ideas
 - ⚖️ **SaralKanoon** - An extensive web application which provides insights about legal documents and answers any questions about the document
 ---
 
-## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=ATTHARVA2005show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ATTHARVA2005&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect with Me
 - 💼 LinkedIn: *https://www.linkedin.com/in/attharva-gupta-1856282a0*  
 - 📧 Email: **attharvagupta2005@gmail.com**
