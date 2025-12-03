@@ -41,7 +41,7 @@ From real-time detection models to multi-agent frameworks, I enjoy turning ideas
 ---
 
 ## 📫 Connect with Me
-- 💼 LinkedIn: *https://www.linkedin.com/in/attharva-gupta-1856282a0*  
+- 💼 LinkedIn: **https://www.linkedin.com/in/attharva-gupta-1856282a0**
 - 📧 Email: **attharvagupta2005@gmail.com**
 
 ---
